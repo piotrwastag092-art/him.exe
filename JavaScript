@@ -1,0 +1,5 @@
+const on = require('./boyfriend');
+
+on.cuddle();
+on.saySomethingCute();
+on.exist(); // działa non-stop
